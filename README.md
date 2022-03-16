@@ -1,7 +1,7 @@
 # MPC Autonomous Car
 
 ## Motivation
-This project was completed as part of the Classical Autonmous Systems class during the fall of 2020 at the University of Southern Denmark. 
+This project was completed as part of the Classical Autonmous Systems class during the fall of 2020 at the University of Southern Denmark. The final presentation is available [here](FinalPresentation.pdf)
 
 ## Screenshots
 <img src="./Overleaf pictures/MPC Plot.png" width="854" height="480" />
