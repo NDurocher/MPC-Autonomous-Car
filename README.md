@@ -5,6 +5,7 @@ This project was completed as part of the Classical Autonmous Systems class duri
 
 ## Screenshots
 <img src="./Overleaf pictures/MPC Plot.png" width="854" height="480" />
+
 [![Watchthevideo](https://img.youtube.com/vi/tzgKwV1jZkw/0.jpg)](https://www.youtube.com/watch?v=tzgKwV1jZkw)
 
 ## Features
