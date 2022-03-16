@@ -4,7 +4,7 @@
 This project was completed as part of the Classical Autonmous Systems class during the fall of 2020 at the University of Southern Denmark. 
 
 ## Screenshots
-<img src="./images/output_vdeo_screenshot.png" width="854" height="480" />
+<img src="./Overleaf pictures/MPC Plot.png" width="854" height="480" />
 
 ## Features
 This project implements a time-horizon MPC controller for a theoretical autonomous car in MATLAB. The controller utilizes accelertion and steering angle to predict a trajectory 12 timesteps ahead. The inputs are then optimized to reduce the energy usage, improve controll smoothness and minimize both cross path error and waypoint heading error. 
